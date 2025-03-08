@@ -1,5 +1,5 @@
-Hospital Emergency Room Analysis Project (Interactive Dashboard Creation Using MS Excel)
-Project Objective
+#Hospital Emergency Room Analysis Project (Interactive Dashboard Creation Using MS Excel)
+##Project Objective
 The objective of this project is to analyze hospital emergency room (ER) data to improve patient flow, optimize resource allocation, and enhance service efficiency. By designing an interactive dashboard, we aim to provide actionable insights into:  
 - Patient admission trends
 - Waiting time analysis
