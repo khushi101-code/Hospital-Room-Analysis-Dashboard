@@ -1,2 +1,11 @@
-# Hospital-Room-Analysis-Dashboard
-Here’s an interactive dashboard I designed, which provides a comprehensive analysis of emergency room patient data. It helps visualize critical metrics to assess hospital efficiency, patient flow, and areas needing improvement.
+Hospital Emergency Room Analysis Project (Interactive Dashboard Creation Using MS Excel)
+Project Objective
+The objective of this project is to analyze hospital emergency room (ER) data to improve patient flow, optimize resource allocation, and enhance service efficiency. By designing an interactive dashboard, we aim to provide actionable insights into:  
+- Patient admission trends
+- Waiting time analysis
+- Satisfaction levels
+- Demographic insights
+- Referral patterns  
+
+This project helps hospital administrators and healthcare professionals make data-driven decisions to enhance the patient experience and operational efficiency.
+
