@@ -31,5 +31,5 @@ The dataset consists of hospital ER records
 - Helps **monitor service quality and patient experience.**  
 - Visualized with an **area sparkline chart** to **identify patterns and drops in satisfaction** that may correlate with delays or other challenges.  
 
----
+-Dashboard Interaction <a href="https://github.com/khushi101-code/Hospital-Room-Analysis-Dashboard/blob/main/Hospital%20Room%20Analysis%20Dashboard.png">View Dashboard</a>
 
