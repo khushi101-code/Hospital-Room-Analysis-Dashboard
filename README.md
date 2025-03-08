@@ -33,3 +33,49 @@ The dataset consists of hospital ER records
 
 -Dashboard Interaction <a href="https://github.com/khushi101-code/Hospital-Room-Analysis-Dashboard/blob/main/Hospital%20Room%20Analysis%20Dashboard.png">View Dashboard</a>
 
+### **Process of Building the Dashboard:**  
+
+#### **Step 1: Data Collection & Cleaning**  
+- Import data into **Excel**  
+- Remove duplicates and handle missing values  
+- Convert timestamps to **readable date-time format**  
+- Categorize data (e.g., Age Groups, Admission Status)  
+
+#### **Step 2: KPI Calculation**  
+**🔹 Number of Patients**  
+- Count total patients visiting the ER per day  
+- Use an **area sparkline** to track **daily trends**  
+
+**🔹 Average Wait Time**  
+- Calculate the **mean wait time per day**  
+- Identify days with **higher wait times** for improvements  
+
+**🔹 Patient Satisfaction Score**  
+- Find the **average satisfaction score per day**  
+- Use a **sparkline chart** to analyze trends and detect drops  
+
+**🔹 Patient Admission Status**  
+- Calculate **% of admitted vs. not admitted**  
+- Use a **bar chart** to visualize the comparison  
+
+**🔹 Gender-Wise Analysis**  
+- Find the percentage of **male vs. female** patients  
+- Use a **donut chart** to represent gender distribution  
+
+**🔹 Patient Attend Status**  
+- Track **on-time vs. delayed** cases  
+- Use a **pie chart** to show proportions  
+
+**🔹 Referral to Departments**  
+- Count patients referred to different **hospital departments**  
+- Use a **bar chart** to highlight the most visited departments  
+
+#### **Step 3: Dashboard Creation**  
+- Use **Pivot Tables and Charts** in Excel  
+- Apply **conditional formatting** for better visibility  
+- Add **interactive slicers** for month-wise filtering  
+- Ensure **easy navigation** with buttons and labels  
+
+---
+![Hospital Room Analysis Dashboard](https://github.com/user-attachments/assets/dbc17f05-c24b-4bd6-a80f-2f612eb2882d)
+
